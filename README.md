@@ -4,6 +4,12 @@
     <h1 align = "center" >Welcome to my Github profile</h1>
     <p align = "center">Hello! 👋 </p>
     <p align = "center">My name is Jesus, I´m from Mexico and, I´m an engineering computer student.</p>
+    <h2> 🧑🏽‍💻 About me : </h2>
+    <list>
+      <li> 🌱 I'm currently learning : React.js  </li>
+      <li> 📗 Third year in computer engineer </li>
+      <li>  📨 Contact : jsanchezm795@alumno.uaemex.mx </li>
+    </list>
     <h2 > My Skills</h2>
     <list>
         <li> Python <img src = "./Img/pngwing.com.png" with = "20"  height = "20"> </li>
