@@ -7,7 +7,7 @@
     <h2 > My Skills</h2>
     <list>
         <li> 
-                <p> Python <img src = "./Img/pngwing.com.png" with = "25"  height = "25">  </p>
+             Python <img src = "./Img/pngwing.com.png" with = "25"  height = "25">
         </li>
         <li> Java </li>
         <li> JavaScript</li>
