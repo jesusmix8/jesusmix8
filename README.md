@@ -1,23 +1,3 @@
-## Hello 👋
-
-- Currently studying in the third year of my grade.
-
-## Skills
-
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
-- Tailwind
-- Python
-- MongoDB
-- SQL
-- Oracle Database
-
-<!DOCTYPE html>
-<html>
-<head>
-
 </head>
 <body>
   <div class="container">
