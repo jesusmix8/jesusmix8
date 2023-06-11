@@ -8,7 +8,6 @@
 # # # My stats :
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesusmix8&theme=highcontrast)](https://git.io/streak-stats)
-    ---
 
 <body>
 </head>
