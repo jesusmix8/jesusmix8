@@ -9,7 +9,7 @@
         <li> 
             <div>
                 <p> Python</p>
-                <img src = "./Img/pngwing.com.png"> 
+                <img src = "./Img/pngwing.com.png" with = "25"  height = "25"> 
             </div>
         </li>
         <li> Java </li>
