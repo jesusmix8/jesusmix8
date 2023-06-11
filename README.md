@@ -8,8 +8,8 @@
     <list>
         <li> 
             <div>
-                <p> Python</p>
-                <img src = "./Img/pngwing.com.png" with = "25"  height = "25"> 
+                <p> Python <img src = "./Img/pngwing.com.png" with = "25"  height = "25">  </p>
+                
             </div>
         </li>
         <li> Java </li>
