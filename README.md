@@ -5,13 +5,14 @@
     <p align = "center">My name is Jesus, I´m from Mexico and, I´m an engineering computer student.</p>
 <body/>
 
-# # # My stats :
+## My stats :
 
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesusmix8&theme=highcontrast)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=jesusmix8)](https://git.io/streak-stats)
+
+## 🧑🏽‍💻 About me :
 
 <body>
 </head>
-    <h2> 🧑🏽‍💻 About me : </h2>
     <list>
       <li> 🌱 I'm currently learning : React.js  </li>
       <li> 📗 Third year in computer engineer </li>
