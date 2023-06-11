@@ -14,7 +14,7 @@
         <li> Tailwind <img src = "./Img/tail.png" with = "20" height = "20"> </li>
         <li> MongoDB <img src = "./Img/mondb.png" with = "20" height = "20"></li>
         <li> SQL <img src = "./Img/sql.png" with = "20" height = "20"></li>
-        <li> Oracle Database</li>
+        <li> Oracle Database <img src = "./Img/kisspng-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-5b463b4fb69648.3103673815313293597479.png" with = "20" height = "20"> </li>
     </list>
   </div>
 </body>
