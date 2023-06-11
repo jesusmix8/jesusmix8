@@ -1,34 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      background-color: #f1f1f1;
-    }
 
-    .container {
-      text-align: center;
-    }
-
-    h1 {
-      font-size: 48px;
-      margin-bottom: 30px;
-    }
-
-    p {
-      font-size: 24px;
-      margin-bottom: 20px;
-    }
-
-  </style>
 </head>
 <body>
   <div class="container">
