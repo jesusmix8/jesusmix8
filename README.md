@@ -31,6 +31,8 @@
             <li> Python <img src = "./Img/pngwing.com.png" with = "20"  height = "20"> </li>
             <li> Java <img src = "./Img/java-logo-1.png" with = "20" height = "20"> </li>
             <li> JavaScript <img src = "./Img/javascript-39395.png" with = "20" height = "20"> </li>
+            <li> NodeJS <img src = "./Img/node-js-javascript-web-application-express-js-computer-software-others-70d9bb260ad29ba6d220b827803f918f.png" with = "20" height = "20"> </li>
+            <li> Express <img src = "./Img/node-js-express-js-javascript-solution-stack-web-application-others-237f81086df923da9c2718e6170912c9.png" with = "20" height = "20"> </li>
             <li> HTML & CSS <img src= "./Img/CSS3_and_HTML5_logos_and_wordmarks.svg"  with = "20" height = "20"></li>
             <li> Bootstrap <img src = "./Img/boots.png" with = "20" height = "20"></li>
             <li> Tailwind <img src = "./Img/tail.png" with = "20" height = "20"> </li>
