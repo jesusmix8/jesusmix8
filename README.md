@@ -37,7 +37,7 @@
             <li> MongoDB <img src = "./Img/mondb.png" with = "20" height = "20"></li>
             <li> SQL <img src = "./Img/sql.png" with = "20" height = "20"></li>
             <li> Oracle Database <img src = "./Img/kisspng-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-5b463b4fb69648.3103673815313293597479.png" with = "20" height = "20"> </li>
-            <li> PostgreSQL  <img src = "./Img/kisspng-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-5b463b4fb69648.3103673815313293597479.png" with = "20" height = "20"> </li>
+            <li> PostgreSQL  <img src = "./Img/postgresql-database-logo-computer-icons-replication-software-developer-c58ad9bb5d3ba67754ac899f42d4bc52.png" with = "20" height = "20"> </li>
         </list>
       </div>
   </div>
